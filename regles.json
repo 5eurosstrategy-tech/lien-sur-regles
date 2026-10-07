@@ -1,0 +1,27 @@
+{
+ "version": 4,
+ "updated": "2026-10-07",
+ "brands": {
+  "wetransfer": [
+   "wetransfer.com",
+   "we.tl"
+  ],
+  "prime-video": [
+   "primevideo.com"
+  ]
+ },
+ "block": [
+  "wetransfer.site",
+  "compte-prime-video.com",
+  "loftyogi.com",
+  "mellowviro.com",
+  "aupaysdesparfums.com",
+  "lafabrique-dubois.com",
+  "clubjouet.fr"
+ ],
+ "latest": {
+  "extension": "1.4.4",
+  "android": "1.4.3",
+  "message": ""
+ }
+}

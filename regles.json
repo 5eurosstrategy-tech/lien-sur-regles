@@ -1,6 +1,6 @@
 {
- "version": 4,
- "updated": "2026-10-07",
+ "version": 5,
+ "updated": "2026-10-08",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -17,7 +17,10 @@
   "mellowviro.com",
   "aupaysdesparfums.com",
   "lafabrique-dubois.com",
-  "clubjouet.fr"
+  "clubjouet.fr",
+  "delta-fr.com",
+  "cellcast-fr.com",
+  "indyvideos-fr.com"
  ],
  "latest": {
   "extension": "1.4.4",

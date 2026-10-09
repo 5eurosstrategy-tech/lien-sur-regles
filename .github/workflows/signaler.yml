@@ -2,10 +2,13 @@ name: Signalement automatique des sites bloqués
 on:
   push:
     paths: [regles.json]
+  workflow_dispatch:
+    inputs:
+      avant: { description: 'Commit de référence', required: true }
 jobs:
   signaler:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 2 }
-      - run: python3 scripts/signaler.py "${{ github.event.before }}" "${{ github.sha }}"
+      - run: python3 scripts/signaler.py "${{ github.event.inputs.avant || github.event.before }}" "${{ github.sha }}"

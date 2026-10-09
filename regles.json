@@ -1,6 +1,6 @@
 {
- "version": 5,
- "updated": "2026-10-08",
+ "version": 6,
+ "updated": "2026-10-09",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -8,6 +8,19 @@
   ],
   "prime-video": [
    "primevideo.com"
+  ],
+  "darty": [
+   "darty.com"
+  ],
+  "docaposte": [
+   "docaposte.com"
+  ],
+  "leclerc": [
+   "e.leclerc"
+  ],
+  "uber": [
+   "uber.com",
+   "ubereats.com"
   ]
  },
  "block": [
@@ -20,11 +33,19 @@
   "clubjouet.fr",
   "delta-fr.com",
   "cellcast-fr.com",
-  "indyvideos-fr.com"
+  "indyvideos-fr.com",
+  "domviko.shop",
+  "revo-france.com",
+  "bellutia.com",
+  "sadsimmo.com",
+  "leboncoin.bonus-istore.com",
+  "jimdo-1763417176-5254.jimdosite.com",
+  "parkings-vd.com",
+  "parkings-ge.com"
  ],
  "latest": {
-  "extension": "1.4.4",
-  "android": "1.4.3",
-  "message": ""
+  "extension": "1.6.0",
+  "android": "1.6.1",
+  "message": "Nouvelle version Stop Arnaques disponible : mettez-la à jour depuis Google Play."
  }
 }

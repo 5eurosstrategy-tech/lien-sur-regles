@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "updated": "2026-10-09",
  "brands": {
   "wetransfer": [
@@ -103,7 +103,8 @@
   "leboncoin.bonus-istore.com",
   "jimdo-1763417176-5254.jimdosite.com",
   "parkings-vd.com",
-  "parkings-ge.com"
+  "parkings-ge.com",
+  "misitiohostgator.com"
  ],
  "latest": {
   "extension": "1.6.0",

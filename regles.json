@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "updated": "2026-10-09",
  "brands": {
   "wetransfer": [
@@ -52,7 +52,37 @@
    "audible.com",
    "amazon-presse.de",
    "aboutamazon.com",
-   "aboutamazon.fr"
+   "aboutamazon.fr",
+   "amazon.work"
+  ],
+  "microsoft": [
+   "cloud.microsoft",
+   "mcas.ms",
+   "office.net",
+   "live.net",
+   "microsoft365.com",
+   "teams.microsoft.com"
+  ],
+  "canalplus": [
+   "canal-plus.com",
+   "canalplus.ch"
+  ],
+  "creditagricole": [
+   "credit-agricole.ua",
+   "credit-agricole.ch",
+   "ca-cib.com"
+  ],
+  "mercadolibre": [
+   "mercadolibre.com.co",
+   "mercadolibre.com.ar",
+   "mercadolibre.com.mx",
+   "mercadoenvios.com.ve",
+   "mercadolivre.com.br",
+   "mercadolibre.com"
+  ],
+  "mediaset": [
+   "mediaset.it",
+   "mediasetinfinity.mediaset.it"
   ]
  },
  "block": [

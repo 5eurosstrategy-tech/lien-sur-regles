@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "updated": "2026-10-09",
  "brands": {
   "wetransfer": [
@@ -21,6 +21,38 @@
   "uber": [
    "uber.com",
    "ubereats.com"
+  ],
+  "amazon": [
+   "payments-amazon.com",
+   "amazon.ch",
+   "amazon.eu",
+   "amazon.es",
+   "amazon.nl",
+   "amazon.se",
+   "amazon.pl",
+   "amazon.com.be",
+   "amazon.ca",
+   "amazon.com.tr",
+   "amazon.dev",
+   "amazon.jobs",
+   "images-amazon.com",
+   "ssl-images-amazon.com",
+   "media-amazon.com",
+   "amazon-adsystem.com",
+   "amazontrust.com",
+   "amazonpay.de",
+   "amazonpay.com",
+   "amazonvideo.com",
+   "amazonalexa.com",
+   "a2z.com",
+   "amzn.eu",
+   "amzn.com",
+   "audible.de",
+   "audible.fr",
+   "audible.com",
+   "amazon-presse.de",
+   "aboutamazon.com",
+   "aboutamazon.fr"
   ]
  },
  "block": [

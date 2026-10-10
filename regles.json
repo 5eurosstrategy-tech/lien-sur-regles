@@ -1,6 +1,6 @@
 {
- "version": 9,
- "updated": "2026-10-09",
+ "version": 10,
+ "updated": "2026-10-10",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -83,6 +83,14 @@
   "mediaset": [
    "mediaset.it",
    "mediasetinfinity.mediaset.it"
+  ],
+  "manomano": [
+   "manomano.fr",
+   "manomano.com",
+   "manomano.es",
+   "manomano.it",
+   "manomano.de",
+   "manomano.co.uk"
   ]
  },
  "block": [
@@ -104,7 +112,16 @@
   "jimdo-1763417176-5254.jimdosite.com",
   "parkings-vd.com",
   "parkings-ge.com",
-  "misitiohostgator.com"
+  "misitiohostgator.com",
+  "kasayogi.com",
+  "eurlelectro.com",
+  "jardinoutilshop.com",
+  "ice-truck-parts.com",
+  "heatingsystemparts.com",
+  "equipmtoutilshop.com",
+  "eclairageoutillage.com",
+  "stationremorque.com",
+  "alloaperolivraison.com"
  ],
  "latest": {
   "extension": "1.6.0",

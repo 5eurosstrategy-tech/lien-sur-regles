@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "updated": "2026-10-10",
  "brands": {
   "wetransfer": [
@@ -78,7 +78,10 @@
    "mercadolibre.com.mx",
    "mercadoenvios.com.ve",
    "mercadolivre.com.br",
-   "mercadolibre.com"
+   "mercadolibre.com",
+   "mercadolibre.cl",
+   "mercadolibre.com.pe",
+   "mercadolibre.com.uy"
   ],
   "mediaset": [
    "mediaset.it",
@@ -91,6 +94,16 @@
    "manomano.it",
    "manomano.de",
    "manomano.co.uk"
+  ],
+  "banquedefrance": [
+   "banque-france.fr"
+  ],
+  "yvesrocher": [
+   "yves-rocher.fr",
+   "yves-rocher.ch",
+   "yves-rocher.com",
+   "yves-rocher.be",
+   "yvesrocher.com.tr"
   ]
  },
  "block": [
@@ -121,7 +134,12 @@
   "equipmtoutilshop.com",
   "eclairageoutillage.com",
   "stationremorque.com",
-  "alloaperolivraison.com"
+  "alloaperolivraison.com",
+  "thepetzone.vip",
+  "bellebondeal.com",
+  "flashdeals-store.com",
+  "fr-lrel.com",
+  "brixhub.to"
  ],
  "latest": {
   "extension": "1.6.0",

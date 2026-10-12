@@ -1,6 +1,6 @@
 {
- "version": 11,
- "updated": "2026-10-10",
+ "version": 12,
+ "updated": "2026-10-11",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -104,6 +104,20 @@
    "yves-rocher.com",
    "yves-rocher.be",
    "yvesrocher.com.tr"
+  ],
+  "leroymerlin": [
+   "leroymerlin.fr",
+   "leroymerlin.com",
+   "leroymerlin.es",
+   "leroymerlin.it",
+   "leroymerlin.pt"
+  ],
+  "leroy-merlin": [
+   "leroymerlin.fr",
+   "leroymerlin.com",
+   "leroymerlin.es",
+   "leroymerlin.it",
+   "leroymerlin.pt"
   ]
  },
  "block": [
@@ -139,7 +153,18 @@
   "bellebondeal.com",
   "flashdeals-store.com",
   "fr-lrel.com",
-  "brixhub.to"
+  "brixhub.to",
+  "calendrierfiscal26.com",
+  "doctolibdaf06071649.fr",
+  "lmfrprice.com",
+  "lmfrdeal.com",
+  "lmfrprixbas.com",
+  "lmfrbonplan.com",
+  "lmfroutletdiscount.com",
+  "chopandsiz.com",
+  "loeufetlapoulefr.com",
+  "booczy.com",
+  "collectionartis.com"
  ],
  "latest": {
   "extension": "1.6.0",

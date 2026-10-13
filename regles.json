@@ -1,6 +1,6 @@
 {
- "version": 12,
- "updated": "2026-10-11",
+ "version": 13,
+ "updated": "2026-10-13",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -118,6 +118,12 @@
    "leroymerlin.es",
    "leroymerlin.it",
    "leroymerlin.pt"
+  ],
+  "minelli": [
+   "minelli.fr"
+  ],
+  "netatmo": [
+   "netatmo.com"
   ]
  },
  "block": [
@@ -164,7 +170,21 @@
   "chopandsiz.com",
   "loeufetlapoulefr.com",
   "booczy.com",
-  "collectionartis.com"
+  "collectionartis.com",
+  "lmfrsalehub.com",
+  "cosidomo.com",
+  "3thnbrhd.shop",
+  "minelli-officiel.com",
+  "suivre-vos-lettres.com",
+  "kezivo.com",
+  "veselestudio.com",
+  "lmfrbestdeal.com",
+  "mydreamnestco.com",
+  "universmaisonetbebe.fr",
+  "order-notification.online",
+  "joar-equipement.fr",
+  "clupservip.com",
+  "patiolora.com"
  ],
  "latest": {
   "extension": "1.6.0",

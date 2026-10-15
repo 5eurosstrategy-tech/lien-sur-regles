@@ -1,6 +1,6 @@
 {
- "version": 14,
- "updated": "2026-10-14",
+ "version": 15,
+ "updated": "2026-10-15",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -124,6 +124,9 @@
   ],
   "netatmo": [
    "netatmo.com"
+  ],
+  "alinea": [
+   "alinea.com"
   ]
  },
  "block": [
@@ -216,7 +219,12 @@
   "get-kinzeno.com",
   "docteurcaullery.fr",
   "kinzeno-gel.fr",
-  "lmfrprix.com"
+  "lmfrprix.com",
+  "eglamio.com",
+  "verifycodedeals.com",
+  "aktioncode.com",
+  "medyasepet.com",
+  "au-coindufeu.com"
  ],
  "latest": {
   "extension": "1.6.0",

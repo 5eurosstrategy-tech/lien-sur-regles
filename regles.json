@@ -1,6 +1,6 @@
 {
- "version": 15,
- "updated": "2026-10-15",
+ "version": 16,
+ "updated": "2026-10-16",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -127,6 +127,9 @@
   ],
   "alinea": [
    "alinea.com"
+  ],
+  "otio": [
+   "otio.com"
   ]
  },
  "block": [
@@ -224,7 +227,11 @@
   "verifycodedeals.com",
   "aktioncode.com",
   "medyasepet.com",
-  "au-coindufeu.com"
+  "au-coindufeu.com",
+  "vinorique.com",
+  "vinatique.com",
+  "otiofr.com",
+  "altice-expertise.fr"
  ],
  "latest": {
   "extension": "1.6.0",

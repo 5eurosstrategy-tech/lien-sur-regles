@@ -1,6 +1,6 @@
 {
- "version": 16,
- "updated": "2026-10-16",
+ "version": 19,
+ "updated": "2026-10-19",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -130,6 +130,16 @@
   ],
   "otio": [
    "otio.com"
+  ],
+  "vinci-autoroutes": [
+   "vinci-autoroutes.com"
+  ],
+  "bybit": [
+   "bybit.com",
+   "bybit.eu"
+  ],
+  "maisonsdumonde": [
+   "maisonsdumonde.com"
   ]
  },
  "block": [
@@ -231,7 +241,27 @@
   "vinorique.com",
   "vinatique.com",
   "otiofr.com",
-  "altice-expertise.fr"
+  "altice-expertise.fr",
+  "villacoder.com",
+  "kallnhbl.shop",
+  "rvozksfc.shop",
+  "wearejolies-vips.shop",
+  "garnier-logistics.com",
+  "vixgest.com",
+  "pn-immobilier-fortuneo.com",
+  "com-interets.eu",
+  "souscriptionprimebe.com",
+  "prosgupdate.xyz",
+  "bybitgroup.fr",
+  "cressaliving.com",
+  "sterlinghomespace.com",
+  "servafter.com",
+  "piececonviviale.com",
+  "imfrsave.com",
+  "vanaospace.com",
+  "domerixa.shop",
+  "shipnavequip.com",
+  "watch-haus.com"
  ],
  "latest": {
   "extension": "1.6.0",

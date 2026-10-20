@@ -1,6 +1,6 @@
 {
- "version": 19,
- "updated": "2026-10-19",
+ "version": 20,
+ "updated": "2026-10-20",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -140,6 +140,9 @@
   ],
   "maisonsdumonde": [
    "maisonsdumonde.com"
+  ],
+  "boulanger": [
+   "boulanger.com"
   ]
  },
  "block": [
@@ -261,7 +264,12 @@
   "vanaospace.com",
   "domerixa.shop",
   "shipnavequip.com",
-  "watch-haus.com"
+  "watch-haus.com",
+  "novocapital.org",
+  "kaugmann.com",
+  "soya-paris.com",
+  "boulanger2.com",
+  "archefr.com"
  ],
  "latest": {
   "extension": "1.6.0",

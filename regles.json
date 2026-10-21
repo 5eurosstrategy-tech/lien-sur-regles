@@ -1,6 +1,6 @@
 {
- "version": 20,
- "updated": "2026-10-20",
+ "version": 21,
+ "updated": "2026-10-21",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -143,6 +143,12 @@
   ],
   "boulanger": [
    "boulanger.com"
+  ],
+  "manucurist": [
+   "manucurist.com"
+  ],
+  "ikks": [
+   "ikks.com"
   ]
  },
  "block": [
@@ -269,7 +275,14 @@
   "kaugmann.com",
   "soya-paris.com",
   "boulanger2.com",
-  "archefr.com"
+  "archefr.com",
+  "domvirexa.shop",
+  "lmfrpromobox.com",
+  "lmfrdealmax.com",
+  "lmfrprixdoux.com",
+  "imfrpromax.com",
+  "manucurist.de.com",
+  "ikksparis-topsale.shop"
  ],
  "latest": {
   "extension": "1.6.0",

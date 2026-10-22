@@ -1,6 +1,6 @@
 {
- "version": 21,
- "updated": "2026-10-21",
+ "version": 22,
+ "updated": "2026-10-22",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -149,6 +149,9 @@
   ],
   "ikks": [
    "ikks.com"
+  ],
+  "leparisien": [
+   "leparisien.fr"
   ]
  },
  "block": [
@@ -282,7 +285,8 @@
   "lmfrprixdoux.com",
   "imfrpromax.com",
   "manucurist.de.com",
-  "ikksparis-topsale.shop"
+  "ikksparis-topsale.shop",
+  "provocativeermine.media"
  ],
  "latest": {
   "extension": "1.6.0",

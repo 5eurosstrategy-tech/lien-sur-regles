@@ -1,6 +1,6 @@
 {
- "version": 22,
- "updated": "2026-10-22",
+ "version": 23,
+ "updated": "2026-10-23",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -152,6 +152,9 @@
   ],
   "leparisien": [
    "leparisien.fr"
+  ],
+  "shimano": [
+   "shimano.com"
   ]
  },
  "block": [
@@ -286,7 +289,14 @@
   "imfrpromax.com",
   "manucurist.de.com",
   "ikksparis-topsale.shop",
-  "provocativeermine.media"
+  "provocativeermine.media",
+  "holiday-rentals-19068352.homes",
+  "lapierresale.com",
+  "formationcpf.online",
+  "foyer-video-facture.com",
+  "shimanos.fr",
+  "walnutvik.com",
+  "sinkora.ink"
  ],
  "latest": {
   "extension": "1.6.0",

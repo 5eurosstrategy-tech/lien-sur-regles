@@ -1,6 +1,6 @@
 {
- "version": 23,
- "updated": "2026-10-23",
+ "version": 24,
+ "updated": "2026-10-24",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -296,7 +296,12 @@
   "foyer-video-facture.com",
   "shimanos.fr",
   "walnutvik.com",
-  "sinkora.ink"
+  "sinkora.ink",
+  "soseraluneportfolio.click",
+  "mydigitalpage.pro",
+  "flskfnzjb.com",
+  "retractations-client.com",
+  "grandsrouleurs.info"
  ],
  "latest": {
   "extension": "1.6.0",

@@ -1,6 +1,6 @@
 {
- "version": 24,
- "updated": "2026-10-24",
+ "version": 26,
+ "updated": "2026-10-26",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -155,6 +155,9 @@
   ],
   "shimano": [
    "shimano.com"
+  ],
+  "rituals": [
+   "rituals.com"
   ]
  },
  "block": [
@@ -301,7 +304,20 @@
   "mydigitalpage.pro",
   "flskfnzjb.com",
   "retractations-client.com",
-  "grandsrouleurs.info"
+  "grandsrouleurs.info",
+  "resultsearningspercentages.com",
+  "resultsearningspercentages.org",
+  "loppiai.com",
+  "rituals.de.com",
+  "yatesmarkets.com",
+  "service-vos-facture-video.com",
+  "dreamnestzz.com",
+  "casaneststudio.com",
+  "urbanhomeworld.com",
+  "balletschool.sbs",
+  "minelli-official.com",
+  "1forit21.shop",
+  "6forit21.shop"
  ],
  "latest": {
   "extension": "1.6.0",

@@ -1,6 +1,6 @@
 {
- "version": 27,
- "updated": "2026-10-27",
+ "version": 28,
+ "updated": "2026-10-28",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -325,7 +325,12 @@
   "minelli-official.com",
   "1forit21.shop",
   "6forit21.shop",
-  "frboom.com"
+  "frboom.com",
+  "bois-du-massif.com",
+  "ocean-surfshop-fr.com",
+  "accvolet.com",
+  "lejardinsoleil.com",
+  "scaprix.com"
  ],
  "latest": {
   "extension": "1.6.0",

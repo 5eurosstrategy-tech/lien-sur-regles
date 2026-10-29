@@ -1,6 +1,6 @@
 {
- "version": 28,
- "updated": "2026-10-28",
+ "version": 29,
+ "updated": "2026-10-29",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -330,7 +330,17 @@
   "ocean-surfshop-fr.com",
   "accvolet.com",
   "lejardinsoleil.com",
-  "scaprix.com"
+  "scaprix.com",
+  "pagny-tour.com",
+  "elecparadise.fr",
+  "jardiclear.com",
+  "guestapruvestrue.com",
+  "aozx.com",
+  "tradeeuglobal.biz",
+  "boisetpellets.ch",
+  "frm-estates.com",
+  "farmont-estate.com",
+  "farmont-estates.com"
  ],
  "latest": {
   "extension": "1.6.0",

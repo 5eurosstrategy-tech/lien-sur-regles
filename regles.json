@@ -1,351 +1,359 @@
 {
- "version": 30,
- "updated": "2026-10-30",
- "brands": {
-  "wetransfer": [
-   "wetransfer.com",
-   "we.tl"
+  "version": 31,
+  "updated": "2026-10-31",
+  "brands": {
+    "wetransfer": [
+      "wetransfer.com",
+      "we.tl"
+    ],
+    "prime-video": [
+      "primevideo.com"
+    ],
+    "darty": [
+      "darty.com"
+    ],
+    "docaposte": [
+      "docaposte.com"
+    ],
+    "leclerc": [
+      "e.leclerc"
+    ],
+    "uber": [
+      "uber.com",
+      "ubereats.com"
+    ],
+    "amazon": [
+      "payments-amazon.com",
+      "amazon.ch",
+      "amazon.eu",
+      "amazon.es",
+      "amazon.nl",
+      "amazon.se",
+      "amazon.pl",
+      "amazon.com.be",
+      "amazon.ca",
+      "amazon.com.tr",
+      "amazon.dev",
+      "amazon.jobs",
+      "images-amazon.com",
+      "ssl-images-amazon.com",
+      "media-amazon.com",
+      "amazon-adsystem.com",
+      "amazontrust.com",
+      "amazonpay.de",
+      "amazonpay.com",
+      "amazonvideo.com",
+      "amazonalexa.com",
+      "a2z.com",
+      "amzn.eu",
+      "amzn.com",
+      "audible.de",
+      "audible.fr",
+      "audible.com",
+      "amazon-presse.de",
+      "aboutamazon.com",
+      "aboutamazon.fr",
+      "amazon.work"
+    ],
+    "microsoft": [
+      "cloud.microsoft",
+      "mcas.ms",
+      "office.net",
+      "live.net",
+      "microsoft365.com",
+      "teams.microsoft.com"
+    ],
+    "canalplus": [
+      "canal-plus.com",
+      "canalplus.ch"
+    ],
+    "creditagricole": [
+      "credit-agricole.ua",
+      "credit-agricole.ch",
+      "ca-cib.com"
+    ],
+    "mercadolibre": [
+      "mercadolibre.com.co",
+      "mercadolibre.com.ar",
+      "mercadolibre.com.mx",
+      "mercadoenvios.com.ve",
+      "mercadolivre.com.br",
+      "mercadolibre.com",
+      "mercadolibre.cl",
+      "mercadolibre.com.pe",
+      "mercadolibre.com.uy"
+    ],
+    "mediaset": [
+      "mediaset.it",
+      "mediasetinfinity.mediaset.it"
+    ],
+    "manomano": [
+      "manomano.fr",
+      "manomano.com",
+      "manomano.es",
+      "manomano.it",
+      "manomano.de",
+      "manomano.co.uk"
+    ],
+    "banquedefrance": [
+      "banque-france.fr"
+    ],
+    "yvesrocher": [
+      "yves-rocher.fr",
+      "yves-rocher.ch",
+      "yves-rocher.com",
+      "yves-rocher.be",
+      "yvesrocher.com.tr"
+    ],
+    "leroymerlin": [
+      "leroymerlin.fr",
+      "leroymerlin.com",
+      "leroymerlin.es",
+      "leroymerlin.it",
+      "leroymerlin.pt"
+    ],
+    "leroy-merlin": [
+      "leroymerlin.fr",
+      "leroymerlin.com",
+      "leroymerlin.es",
+      "leroymerlin.it",
+      "leroymerlin.pt"
+    ],
+    "minelli": [
+      "minelli.fr"
+    ],
+    "netatmo": [
+      "netatmo.com"
+    ],
+    "alinea": [
+      "alinea.com"
+    ],
+    "otio": [
+      "otio.com"
+    ],
+    "vinci-autoroutes": [
+      "vinci-autoroutes.com"
+    ],
+    "bybit": [
+      "bybit.com",
+      "bybit.eu"
+    ],
+    "maisonsdumonde": [
+      "maisonsdumonde.com"
+    ],
+    "boulanger": [
+      "boulanger.com"
+    ],
+    "manucurist": [
+      "manucurist.com"
+    ],
+    "ikks": [
+      "ikks.com"
+    ],
+    "leparisien": [
+      "leparisien.fr"
+    ],
+    "shimano": [
+      "shimano.com"
+    ],
+    "rituals": [
+      "rituals.com"
+    ],
+    "fnac": [
+      "fnac.com",
+      "fnac.ch",
+      "fnac.be",
+      "fnacspectacles.com",
+      "fnac-darty.com"
+    ]
+  },
+  "block": [
+    "wetransfer.site",
+    "compte-prime-video.com",
+    "loftyogi.com",
+    "mellowviro.com",
+    "aupaysdesparfums.com",
+    "lafabrique-dubois.com",
+    "clubjouet.fr",
+    "delta-fr.com",
+    "cellcast-fr.com",
+    "indyvideos-fr.com",
+    "domviko.shop",
+    "revo-france.com",
+    "bellutia.com",
+    "sadsimmo.com",
+    "leboncoin.bonus-istore.com",
+    "jimdo-1763417176-5254.jimdosite.com",
+    "parkings-vd.com",
+    "parkings-ge.com",
+    "misitiohostgator.com",
+    "kasayogi.com",
+    "eurlelectro.com",
+    "jardinoutilshop.com",
+    "ice-truck-parts.com",
+    "heatingsystemparts.com",
+    "equipmtoutilshop.com",
+    "eclairageoutillage.com",
+    "stationremorque.com",
+    "alloaperolivraison.com",
+    "thepetzone.vip",
+    "bellebondeal.com",
+    "flashdeals-store.com",
+    "fr-lrel.com",
+    "brixhub.to",
+    "calendrierfiscal26.com",
+    "doctolibdaf06071649.fr",
+    "lmfrprice.com",
+    "lmfrdeal.com",
+    "lmfrprixbas.com",
+    "lmfrbonplan.com",
+    "lmfroutletdiscount.com",
+    "chopandsiz.com",
+    "loeufetlapoulefr.com",
+    "booczy.com",
+    "collectionartis.com",
+    "lmfrsalehub.com",
+    "cosidomo.com",
+    "3thnbrhd.shop",
+    "minelli-officiel.com",
+    "suivre-vos-lettres.com",
+    "kezivo.com",
+    "veselestudio.com",
+    "lmfrbestdeal.com",
+    "mydreamnestco.com",
+    "universmaisonetbebe.fr",
+    "order-notification.online",
+    "joar-equipement.fr",
+    "clupservip.com",
+    "patiolora.com",
+    "potensal.com",
+    "jarditrac.com",
+    "alinea-france-official.com",
+    "alineaoffical.com",
+    "alinea-officialfrance.com",
+    "alinea-official.com",
+    "manomanoshop.com",
+    "prix-min.com",
+    "clicecommerce.com",
+    "boutikofr.com",
+    "belleshopelia.com",
+    "prixoramax.com",
+    "belleprixora.com",
+    "sportsplusgo.com",
+    "trekxchange.com",
+    "lush4you.com",
+    "tykesale.com",
+    "wrap2joy.com",
+    "toutici.fr",
+    "megadelice.com",
+    "yumicandy.com",
+    "trustpilot.com.pl",
+    "auxexpress.com",
+    "auxexpress.delivery",
+    "materielpleinair.com",
+    "maxicasa.fr",
+    "nipogistore.com",
+    "commonwellguide.com",
+    "get-kinzeno.com",
+    "docteurcaullery.fr",
+    "kinzeno-gel.fr",
+    "lmfrprix.com",
+    "eglamio.com",
+    "verifycodedeals.com",
+    "aktioncode.com",
+    "medyasepet.com",
+    "au-coindufeu.com",
+    "vinorique.com",
+    "vinatique.com",
+    "otiofr.com",
+    "altice-expertise.fr",
+    "villacoder.com",
+    "kallnhbl.shop",
+    "rvozksfc.shop",
+    "wearejolies-vips.shop",
+    "garnier-logistics.com",
+    "vixgest.com",
+    "pn-immobilier-fortuneo.com",
+    "com-interets.eu",
+    "souscriptionprimebe.com",
+    "prosgupdate.xyz",
+    "bybitgroup.fr",
+    "cressaliving.com",
+    "sterlinghomespace.com",
+    "servafter.com",
+    "piececonviviale.com",
+    "imfrsave.com",
+    "vanaospace.com",
+    "domerixa.shop",
+    "shipnavequip.com",
+    "watch-haus.com",
+    "novocapital.org",
+    "kaugmann.com",
+    "soya-paris.com",
+    "boulanger2.com",
+    "archefr.com",
+    "domvirexa.shop",
+    "lmfrpromobox.com",
+    "lmfrdealmax.com",
+    "lmfrprixdoux.com",
+    "imfrpromax.com",
+    "manucurist.de.com",
+    "ikksparis-topsale.shop",
+    "provocativeermine.media",
+    "holiday-rentals-19068352.homes",
+    "lapierresale.com",
+    "formationcpf.online",
+    "foyer-video-facture.com",
+    "shimanos.fr",
+    "walnutvik.com",
+    "sinkora.ink",
+    "soseraluneportfolio.click",
+    "mydigitalpage.pro",
+    "flskfnzjb.com",
+    "retractations-client.com",
+    "grandsrouleurs.info",
+    "resultsearningspercentages.com",
+    "resultsearningspercentages.org",
+    "loppiai.com",
+    "rituals.de.com",
+    "yatesmarkets.com",
+    "service-vos-facture-video.com",
+    "dreamnestzz.com",
+    "casaneststudio.com",
+    "urbanhomeworld.com",
+    "balletschool.sbs",
+    "minelli-official.com",
+    "1forit21.shop",
+    "6forit21.shop",
+    "frboom.com",
+    "bois-du-massif.com",
+    "ocean-surfshop-fr.com",
+    "accvolet.com",
+    "lejardinsoleil.com",
+    "scaprix.com",
+    "pagny-tour.com",
+    "elecparadise.fr",
+    "jardiclear.com",
+    "guestapruvestrue.com",
+    "aozx.com",
+    "tradeeuglobal.biz",
+    "boisetpellets.ch",
+    "frm-estates.com",
+    "farmont-estate.com",
+    "farmont-estates.com",
+    "ballethfibs.ws",
+    "ibrilliant.ch",
+    "erstattung-nordvex.vip",
+    "kaffeemachers.shop",
+    "kiffeemacher.com",
+    "unilqochschweiz.com",
+    "automatisierungshop.com",
+    "topmarkets.cc",
+    "tradeeuglobal.online"
   ],
-  "prime-video": [
-   "primevideo.com"
-  ],
-  "darty": [
-   "darty.com"
-  ],
-  "docaposte": [
-   "docaposte.com"
-  ],
-  "leclerc": [
-   "e.leclerc"
-  ],
-  "uber": [
-   "uber.com",
-   "ubereats.com"
-  ],
-  "amazon": [
-   "payments-amazon.com",
-   "amazon.ch",
-   "amazon.eu",
-   "amazon.es",
-   "amazon.nl",
-   "amazon.se",
-   "amazon.pl",
-   "amazon.com.be",
-   "amazon.ca",
-   "amazon.com.tr",
-   "amazon.dev",
-   "amazon.jobs",
-   "images-amazon.com",
-   "ssl-images-amazon.com",
-   "media-amazon.com",
-   "amazon-adsystem.com",
-   "amazontrust.com",
-   "amazonpay.de",
-   "amazonpay.com",
-   "amazonvideo.com",
-   "amazonalexa.com",
-   "a2z.com",
-   "amzn.eu",
-   "amzn.com",
-   "audible.de",
-   "audible.fr",
-   "audible.com",
-   "amazon-presse.de",
-   "aboutamazon.com",
-   "aboutamazon.fr",
-   "amazon.work"
-  ],
-  "microsoft": [
-   "cloud.microsoft",
-   "mcas.ms",
-   "office.net",
-   "live.net",
-   "microsoft365.com",
-   "teams.microsoft.com"
-  ],
-  "canalplus": [
-   "canal-plus.com",
-   "canalplus.ch"
-  ],
-  "creditagricole": [
-   "credit-agricole.ua",
-   "credit-agricole.ch",
-   "ca-cib.com"
-  ],
-  "mercadolibre": [
-   "mercadolibre.com.co",
-   "mercadolibre.com.ar",
-   "mercadolibre.com.mx",
-   "mercadoenvios.com.ve",
-   "mercadolivre.com.br",
-   "mercadolibre.com",
-   "mercadolibre.cl",
-   "mercadolibre.com.pe",
-   "mercadolibre.com.uy"
-  ],
-  "mediaset": [
-   "mediaset.it",
-   "mediasetinfinity.mediaset.it"
-  ],
-  "manomano": [
-   "manomano.fr",
-   "manomano.com",
-   "manomano.es",
-   "manomano.it",
-   "manomano.de",
-   "manomano.co.uk"
-  ],
-  "banquedefrance": [
-   "banque-france.fr"
-  ],
-  "yvesrocher": [
-   "yves-rocher.fr",
-   "yves-rocher.ch",
-   "yves-rocher.com",
-   "yves-rocher.be",
-   "yvesrocher.com.tr"
-  ],
-  "leroymerlin": [
-   "leroymerlin.fr",
-   "leroymerlin.com",
-   "leroymerlin.es",
-   "leroymerlin.it",
-   "leroymerlin.pt"
-  ],
-  "leroy-merlin": [
-   "leroymerlin.fr",
-   "leroymerlin.com",
-   "leroymerlin.es",
-   "leroymerlin.it",
-   "leroymerlin.pt"
-  ],
-  "minelli": [
-   "minelli.fr"
-  ],
-  "netatmo": [
-   "netatmo.com"
-  ],
-  "alinea": [
-   "alinea.com"
-  ],
-  "otio": [
-   "otio.com"
-  ],
-  "vinci-autoroutes": [
-   "vinci-autoroutes.com"
-  ],
-  "bybit": [
-   "bybit.com",
-   "bybit.eu"
-  ],
-  "maisonsdumonde": [
-   "maisonsdumonde.com"
-  ],
-  "boulanger": [
-   "boulanger.com"
-  ],
-  "manucurist": [
-   "manucurist.com"
-  ],
-  "ikks": [
-   "ikks.com"
-  ],
-  "leparisien": [
-   "leparisien.fr"
-  ],
-  "shimano": [
-   "shimano.com"
-  ],
-  "rituals": [
-   "rituals.com"
-  ],
-  "fnac": [
-   "fnac.com",
-   "fnac.ch",
-   "fnac.be",
-   "fnacspectacles.com",
-   "fnac-darty.com"
-  ]
- },
- "block": [
-  "wetransfer.site",
-  "compte-prime-video.com",
-  "loftyogi.com",
-  "mellowviro.com",
-  "aupaysdesparfums.com",
-  "lafabrique-dubois.com",
-  "clubjouet.fr",
-  "delta-fr.com",
-  "cellcast-fr.com",
-  "indyvideos-fr.com",
-  "domviko.shop",
-  "revo-france.com",
-  "bellutia.com",
-  "sadsimmo.com",
-  "leboncoin.bonus-istore.com",
-  "jimdo-1763417176-5254.jimdosite.com",
-  "parkings-vd.com",
-  "parkings-ge.com",
-  "misitiohostgator.com",
-  "kasayogi.com",
-  "eurlelectro.com",
-  "jardinoutilshop.com",
-  "ice-truck-parts.com",
-  "heatingsystemparts.com",
-  "equipmtoutilshop.com",
-  "eclairageoutillage.com",
-  "stationremorque.com",
-  "alloaperolivraison.com",
-  "thepetzone.vip",
-  "bellebondeal.com",
-  "flashdeals-store.com",
-  "fr-lrel.com",
-  "brixhub.to",
-  "calendrierfiscal26.com",
-  "doctolibdaf06071649.fr",
-  "lmfrprice.com",
-  "lmfrdeal.com",
-  "lmfrprixbas.com",
-  "lmfrbonplan.com",
-  "lmfroutletdiscount.com",
-  "chopandsiz.com",
-  "loeufetlapoulefr.com",
-  "booczy.com",
-  "collectionartis.com",
-  "lmfrsalehub.com",
-  "cosidomo.com",
-  "3thnbrhd.shop",
-  "minelli-officiel.com",
-  "suivre-vos-lettres.com",
-  "kezivo.com",
-  "veselestudio.com",
-  "lmfrbestdeal.com",
-  "mydreamnestco.com",
-  "universmaisonetbebe.fr",
-  "order-notification.online",
-  "joar-equipement.fr",
-  "clupservip.com",
-  "patiolora.com",
-  "potensal.com",
-  "jarditrac.com",
-  "alinea-france-official.com",
-  "alineaoffical.com",
-  "alinea-officialfrance.com",
-  "alinea-official.com",
-  "manomanoshop.com",
-  "prix-min.com",
-  "clicecommerce.com",
-  "boutikofr.com",
-  "belleshopelia.com",
-  "prixoramax.com",
-  "belleprixora.com",
-  "sportsplusgo.com",
-  "trekxchange.com",
-  "lush4you.com",
-  "tykesale.com",
-  "wrap2joy.com",
-  "toutici.fr",
-  "megadelice.com",
-  "yumicandy.com",
-  "trustpilot.com.pl",
-  "auxexpress.com",
-  "auxexpress.delivery",
-  "materielpleinair.com",
-  "maxicasa.fr",
-  "nipogistore.com",
-  "commonwellguide.com",
-  "get-kinzeno.com",
-  "docteurcaullery.fr",
-  "kinzeno-gel.fr",
-  "lmfrprix.com",
-  "eglamio.com",
-  "verifycodedeals.com",
-  "aktioncode.com",
-  "medyasepet.com",
-  "au-coindufeu.com",
-  "vinorique.com",
-  "vinatique.com",
-  "otiofr.com",
-  "altice-expertise.fr",
-  "villacoder.com",
-  "kallnhbl.shop",
-  "rvozksfc.shop",
-  "wearejolies-vips.shop",
-  "garnier-logistics.com",
-  "vixgest.com",
-  "pn-immobilier-fortuneo.com",
-  "com-interets.eu",
-  "souscriptionprimebe.com",
-  "prosgupdate.xyz",
-  "bybitgroup.fr",
-  "cressaliving.com",
-  "sterlinghomespace.com",
-  "servafter.com",
-  "piececonviviale.com",
-  "imfrsave.com",
-  "vanaospace.com",
-  "domerixa.shop",
-  "shipnavequip.com",
-  "watch-haus.com",
-  "novocapital.org",
-  "kaugmann.com",
-  "soya-paris.com",
-  "boulanger2.com",
-  "archefr.com",
-  "domvirexa.shop",
-  "lmfrpromobox.com",
-  "lmfrdealmax.com",
-  "lmfrprixdoux.com",
-  "imfrpromax.com",
-  "manucurist.de.com",
-  "ikksparis-topsale.shop",
-  "provocativeermine.media",
-  "holiday-rentals-19068352.homes",
-  "lapierresale.com",
-  "formationcpf.online",
-  "foyer-video-facture.com",
-  "shimanos.fr",
-  "walnutvik.com",
-  "sinkora.ink",
-  "soseraluneportfolio.click",
-  "mydigitalpage.pro",
-  "flskfnzjb.com",
-  "retractations-client.com",
-  "grandsrouleurs.info",
-  "resultsearningspercentages.com",
-  "resultsearningspercentages.org",
-  "loppiai.com",
-  "rituals.de.com",
-  "yatesmarkets.com",
-  "service-vos-facture-video.com",
-  "dreamnestzz.com",
-  "casaneststudio.com",
-  "urbanhomeworld.com",
-  "balletschool.sbs",
-  "minelli-official.com",
-  "1forit21.shop",
-  "6forit21.shop",
-  "frboom.com",
-  "bois-du-massif.com",
-  "ocean-surfshop-fr.com",
-  "accvolet.com",
-  "lejardinsoleil.com",
-  "scaprix.com",
-  "pagny-tour.com",
-  "elecparadise.fr",
-  "jardiclear.com",
-  "guestapruvestrue.com",
-  "aozx.com",
-  "tradeeuglobal.biz",
-  "boisetpellets.ch",
-  "frm-estates.com",
-  "farmont-estate.com",
-  "farmont-estates.com",
-  "ballethfibs.ws"
- ],
- "latest": {
-  "extension": "1.6.0",
-  "android": "1.6.1",
-  "message": "Nouvelle version Stop Arnaques disponible : mettez-la à jour depuis Google Play."
- }
+  "latest": {
+    "extension": "1.6.0",
+    "android": "1.6.1",
+    "message": "Nouvelle version Stop Arnaques disponible : mettez-la à jour depuis Google Play."
+  }
 }

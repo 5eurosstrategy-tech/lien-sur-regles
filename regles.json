@@ -1,6 +1,6 @@
 {
-  "version": 31,
-  "updated": "2026-10-31",
+  "version": 32,
+  "updated": "2026-11-01",
   "brands": {
     "wetransfer": [
       "wetransfer.com",
@@ -349,7 +349,11 @@
     "unilqochschweiz.com",
     "automatisierungshop.com",
     "topmarkets.cc",
-    "tradeeuglobal.online"
+    "tradeeuglobal.online",
+    "pokeflash.fr",
+    "coinbarons-fr.com",
+    "lareservesecrete.fr",
+    "jade-tcg.com"
   ],
   "latest": {
     "extension": "1.6.0",

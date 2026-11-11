@@ -1,6 +1,6 @@
 {
-  "version": 40,
-  "updated": "2026-11-10",
+  "version": 41,
+  "updated": "2026-11-11",
   "brands": {
     "wetransfer": [
       "wetransfer.com",
@@ -420,7 +420,12 @@
     "jaade-tcg.com",
     "sky-hawkassets.com",
     "verusfund.net",
-    "imperial-finance.ltd"
+    "imperial-finance.ltd",
+    "gopartage.online",
+    "the.capitalsurge.net",
+    "okens-holz.ch",
+    "scborcard.com",
+    "pelletholz.com"
   ],
   "latest": {
     "extension": "1.6.0",

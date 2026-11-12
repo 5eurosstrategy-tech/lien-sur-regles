@@ -1,6 +1,6 @@
 {
-  "version": 41,
-  "updated": "2026-11-11",
+  "version": 42,
+  "updated": "2026-11-12",
   "brands": {
     "wetransfer": [
       "wetransfer.com",
@@ -425,7 +425,12 @@
     "the.capitalsurge.net",
     "okens-holz.ch",
     "scborcard.com",
-    "pelletholz.com"
+    "pelletholz.com",
+    "onpartage.online",
+    "bois-des-massifs.com",
+    "annulation-missionresponse.com",
+    "doulia-boutique.store",
+    "doulia-store.com"
   ],
   "latest": {
     "extension": "1.6.0",

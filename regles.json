@@ -1,6 +1,6 @@
 {
-  "version": 42,
-  "updated": "2026-11-12",
+  "version": 43,
+  "updated": "2026-11-13",
   "brands": {
     "wetransfer": [
       "wetransfer.com",
@@ -430,7 +430,9 @@
     "bois-des-massifs.com",
     "annulation-missionresponse.com",
     "doulia-boutique.store",
-    "doulia-store.com"
+    "doulia-store.com",
+    "unpartage.online",
+    "annulation-clubpetro.com"
   ],
   "latest": {
     "extension": "1.6.0",

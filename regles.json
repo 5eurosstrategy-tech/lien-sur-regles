@@ -1,6 +1,6 @@
 {
- "version": 47,
- "updated": "2026-11-17",
+ "version": 48,
+ "updated": "2026-11-18",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -196,6 +196,9 @@
    "sfr.com",
    "red-by-sfr.fr",
    "sfrbusiness.fr"
+  ],
+  "reka": [
+   "reka.ch"
   ]
  },
  "block": [
@@ -450,7 +453,16 @@
   "helveticadesignedinthealps.com",
   "bellefitz.fr",
   "boowinter-france.com",
-  "amelicontact.org"
+  "amelicontact.org",
+  "imfrprixcasses.com",
+  "lmfroutletdeals.com",
+  "france-anah.fr",
+  "nk-homcraft.com",
+  "scierievoutaz.com",
+  "france-carburant.com",
+  "la-nouvelle-info-france.com",
+  "france-aide-carburant.com",
+  "materielauto24.com"
  ],
  "latest": {
   "extension": "1.6.0",

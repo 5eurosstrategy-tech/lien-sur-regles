@@ -1,6 +1,6 @@
 {
-  "version": 49,
-  "updated": "2026-11-19",
+  "version": 50,
+  "updated": "2026-11-20",
   "brands": {
     "wetransfer": [
       "wetransfer.com",
@@ -484,7 +484,14 @@
     "goodtools.work",
     "hpuvip.com",
     "hpuvip01.com",
-    "ed-automobiles.vip"
+    "ed-automobiles.vip",
+    "sufral.fr",
+    "sufral.com",
+    "corakerimina.com",
+    "tacticalthread.fr",
+    "beroccaag.com",
+    "capital-premium.com",
+    "agency-oolix.com"
   ],
   "latest": {
     "extension": "1.6.0",

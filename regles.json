@@ -1,6 +1,6 @@
 {
-  "version": 50,
-  "updated": "2026-11-20",
+  "version": 51,
+  "updated": "2026-11-23",
   "brands": {
     "wetransfer": [
       "wetransfer.com",
@@ -491,7 +491,15 @@
     "tacticalthread.fr",
     "beroccaag.com",
     "capital-premium.com",
-    "agency-oolix.com"
+    "agency-oolix.com",
+    "cuisely.com",
+    "xn--livraison-after-apro-s2b.com",
+    "bougepas.fr",
+    "artelia-boutique.com",
+    "soncine.my",
+    "manucurist-fr.it.com",
+    "manucurists.shop",
+    "manucuristeur.com"
   ],
   "latest": {
     "extension": "1.6.0",

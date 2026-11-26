@@ -1,6 +1,6 @@
 {
- "version": 52,
- "updated": "2026-11-24",
+ "version": 53,
+ "updated": "2026-11-26",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -199,6 +199,10 @@
   ],
   "reka": [
    "reka.ch"
+  ],
+  "viseca": [
+   "viseca.ch",
+   "one-digitalservice.ch"
   ]
  },
  "block": [
@@ -501,7 +505,8 @@
   "manucurists.shop",
   "manucuristeur.com",
   "remotejobschweiz.com",
-  "cifmarkets.world"
+  "cifmarkets.world",
+  "one-digitaleservice.com"
  ],
  "latest": {
   "extension": "1.6.0",

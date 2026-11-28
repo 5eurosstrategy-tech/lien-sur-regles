@@ -1,6 +1,6 @@
 {
- "version": 53,
- "updated": "2026-11-26",
+ "version": 54,
+ "updated": "2026-11-28",
  "brands": {
   "wetransfer": [
    "wetransfer.com",
@@ -506,7 +506,11 @@
   "manucuristeur.com",
   "remotejobschweiz.com",
   "cifmarkets.world",
-  "one-digitaleservice.com"
+  "one-digitaleservice.com",
+  "plusdirect24.com",
+  "getplusdirect24.com",
+  "marketsinfinity.com",
+  "aladdinhftcluster.com"
  ],
  "latest": {
   "extension": "1.6.0",
